@@ -108,8 +108,8 @@ Press Enter to continue...
 | &nbsp; | Name | Duty/Responsibility |
 |--------|------|---------------------|
 | <img src="static/marieemoiselle.JPG" width="100" height="100"> | Fatima Marie P. Agdon, MSCS | Project Leader/ System Architect |
-| <img src="static/jeisquared.JPG" width="100" height="100"> | Jei Q. Pastrana, MSIT | File Handling Specialist |
-| <img src="static/renzmarrion.JPG" width="100" height="100"> | Renz Marrion O. Perez | Feature Developer |
+| <img src="static/jeisquared.jpg" width="100" height="100"> | Jei Q. Pastrana, MSIT | File Handling Specialist |
+| <img src="static/renzmarrion.jpg" width="100" height="100"> | Renz Marrion O. Perez | Feature Developer |
 
 ##  ‧₊˚ ┊ Acknowledgment
 We sincerely express our gratitude to our instructor for the guidance and support provided throughout the completion of this project. We also extend our appreciation to our classmates and peers for their cooperation and encouragement during the development process.
